@@ -25,7 +25,7 @@ Another difference between is the space consumed by an application.
 For better understanding check out [this](https://www.youtube.com/watch?v=0qotVMX-J5s) video or [this article](https://opensource.com/resources/what-are-linux-containers?intcmp=7016000000127cYAAQ).
 
 <p>
-<img src=https://i.ytimg.com/vi/TvnZTi_gaNc/maxresdefault.jpg height=200 width=470
+<img src=https://i.ytimg.com/vi/TvnZTi_gaNc/maxresdefault.jpg height=300 width=470
 >
 </p>
 
@@ -35,7 +35,7 @@ For better understanding check out [this](https://www.youtube.com/watch?v=0qotVM
 To create a **Docker Image**, a set of instrctuions are written in a Dockerfile. Which compiles to form a Docker Image containing all the dependencies and processes in the form of layers for the application.
 
 <a>
-<img src="https://github.com/library-of-code/Docker-Golang/blob/master/assets/gif/image.gif"  height="110" />
+<img src="https://github.com/library-of-code/Docker-Golang/blob/master/assets/gif/image.gif"  height="300" />
 </a>
 
 The working state of an **Image** is called a **Container**.
@@ -46,11 +46,16 @@ The working state of an **Image** is called a **Container**.
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ei6uiPX58jiBDxPFMxlqL0bxFXndDPVK4w&usqp=CAU height=200
 >
 </p>
-Docker images are stored in **Docker Registry**. 
+
+Docker images are stored in **Docker Registry** . 
 User can interact his/her image of an application using simple Docker commands **push** and **pull**.
 
 All the images are stored on Docker Registery with tags for multiple versions, thus a user can deal with multiple versions of same applications using the tags.
 
 The Images on `Registry` can either be private or public depending on users need.
 
+The fundamentals about Docker has been covered up with these Wh-Questions.
 
+We will go through a Practical approach with next article for better understnding of using Docker.
+
+Thankyou❤
