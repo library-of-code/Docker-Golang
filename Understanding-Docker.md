@@ -31,14 +31,14 @@ For better understanding check out [this](https://www.youtube.com/watch?v=0qotVM
 
 ## When a Docker Image gets coverted to a Container?
 
+
 To create a **Docker Image**, a set of instrctuions are written in a Dockerfile. Which compiles to form a Docker Image containing all the dependencies and processes in the form of layers for the application.
 
-The working state of an **Image** is called a **Container**.
+<a>
+<img src="https://github.com/library-of-code/Docker-Golang/blob/master/assets/gif/image.gif"  height="110" />
+</a>
 
-<p>
-<img src=
->
-</p>
+The working state of an **Image** is called a **Container**.
 
 ## Where are the docker Images stored Publically?
 
